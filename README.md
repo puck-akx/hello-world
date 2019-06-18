@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Removing this
+
+A for apple, B for Ball
